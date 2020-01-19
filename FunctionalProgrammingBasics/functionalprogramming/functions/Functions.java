@@ -1,4 +1,4 @@
-package functionInterface;
+package functions;
 
 //https://www.youtube.com/watch?v=93lwttyukZY
 
